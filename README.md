@@ -167,6 +167,7 @@ Structured data of the list (kept in sync) is in [structured.yaml](structured.ya
 * `curl rate.sx` - for exploring (crypto)currencies exchange rates
 * `gopher://gopher.leveck.us:70` - news aggregator
 * `gopher://gopherddit.com:70`  - reddit
+* `ssh teletekst.nl` - teletext from the Dutch public broadcasting foundation (NOS) in terminal
 * `ssh redditbox.us` — reddit in terminal (ssh + text browser)
 * `gopher://hngopher.com:70` - hacker news
 
