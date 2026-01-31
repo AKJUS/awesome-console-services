@@ -191,6 +191,7 @@ Structured data of the list (kept in sync) is in [structured.yaml](structured.ya
 ## Money
 
 * `curl rate.sx` — get cryptocurrencies exchange rates
+* `curl crrcy.sh` - get fiat and cryptocurrencies exchange rates and historical data
 * :no_entry_sign: `curl moneroj.org` — get Monero exchange rate
 * :no_entry_sign: `curl cmc.rjldev.com` — get coinmarketcap top 100 cryptocurrencies
 * `nc ticker.bitcointicker.co 10080` — get BTC/USD exchange rate (also works with telnet)
